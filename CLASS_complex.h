@@ -1,6 +1,8 @@
 #ifndef CLASS_COMPLEX_H_INCLUDED
 #define CLASS_COMPLEX_H_INCLUDED
 
+#include "oop.h"
+
 typedef struct CLASS_COMPLEX CLASS_COMPLEX;
 struct CLASS_COMPLEX{
     int r;
